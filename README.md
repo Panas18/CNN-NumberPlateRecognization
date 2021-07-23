@@ -26,6 +26,7 @@
 	</div>
 
 ## Dataset:
+  The dataset is available in [this repository](https://github.com/Prasanna1991/LPR).
 ```
 Citation:
 @inproceedings{pant2015automatic,
