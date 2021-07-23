@@ -1,10 +1,10 @@
 # NumberPlateCNN
-## In this project a CNN is trained to recognize number plate from an image. At first a model is trained to recognize number digits and numbers. Then the charector segmentation is performed those segmented charectors are recognized.
+## In this project a CNN is trained to recognize number plate from an image. At first a model is trained to recognize number digits and numbers. Then the charector segmentation is performed on those segmented charectors are recognized.
 
 ## Step performed:
-1) Trained a  CNN model in using Pytorch.
+1) Trained a CNN model using Pytorch.
  </br>
- 	90% training accuracy and 88% test accuracy was obtained after 8 epochs.
+ 90% training accuracy and 88% test accuracy was obtained after 8 epochs.
 <div align = 'center'>
 	<img src = './imgs/ConfusionMatrix.png' width = 50% height=50%>	
 	<h5>Confusion Matrix for test dataset.</h5>
